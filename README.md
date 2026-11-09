@@ -2,6 +2,10 @@
 
 EasyPhoto 是一个原生 HarmonyOS 照片整理应用。它支持逐张浏览系统图库、点击或拖动分类、可撤销的待删标记，以及按相册放映回忆。分类时先保存并校验目标相册中的副本，用户结束整理时再按设置处理本轮原图。回收使用系统确认。
 
+## 下载
+
+[在华为应用市场获取拾光整理](https://appgallery.huawei.com/app/detail?id=com.example.easyphoto&channelId=SHARE&source=appshare)
+
 ## 构建
 
 项目使用 ArkTS、ArkUI、Stage、OHPM 和 Hvigor。公开源码版本为 0.3.10，目标 SDK 为 26.0.0，最低系统配置为 HarmonyOS 6.1.0（API 23）。
