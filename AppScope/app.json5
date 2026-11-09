@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.example.easyphoto",
+    "vendor": "example",
+    "versionCode": 1000017,
+    "versionName": "0.3.10",
+    "buildVersion": "1",
+    "icon": "$media:easyphoto_icon",
+    "label": "$string:app_name"
+  }
+}

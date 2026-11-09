@@ -1,0 +1,30 @@
+{
+  "color": [
+    {"name": "loading_indicator", "value": "#8B9098"},
+    {"name": "page_background", "value": "#F3F5F7"},
+    {"name": "console_background", "value": "#F3F5F7"},
+    {"name": "surface", "value": "#FFFFFF"},
+    {"name": "text_primary", "value": "#202020"},
+    {"name": "text_secondary", "value": "#62666E"},
+    {"name": "accent", "value": "#0A59F7"},
+    {"name": "on_accent", "value": "#FFFFFF"},
+    {"name": "accent_soft", "value": "#F2F3F5"},
+    {"name": "warning", "value": "#A45122"},
+    {"name": "start_window_background", "value": "#FFFFFF"},
+    {"name": "selected_surface", "value": "#EAF1FF"},
+    {"name": "divider", "value": "#E6E8EC"},
+    {"name": "icon_muted", "value": "#8B9098"},
+    {"name": "floating_surface", "value": "#F2FFFFFF"},
+    {"name": "floating_edge", "value": "#FFFFFFFF"},
+    {"name": "shadow_soft", "value": "#120E233B"},
+    {"name": "scrim", "value": "#66000000"},
+    {"name": "photo_control", "value": "#CC24262B"},
+    {"name": "playback_ink_dark", "value": "#161616"},
+    {"name": "playback_ink_halo_light", "value": "#99FFFFFF"},
+    {"name": "playback_ink_halo_dark", "value": "#99000000"},
+    {"name": "photo_foreground", "value": "#FFFFFF"},
+    {"name": "destructive", "value": "#B52B25"},
+    {"name": "destructive_surface", "value": "#FFF0EF"},
+    {"name": "slideshow_background", "value": "#101114"}
+  ]
+}

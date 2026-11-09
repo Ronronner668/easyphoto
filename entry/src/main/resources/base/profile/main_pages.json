@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PhotoReview",
+    "pages/Settings",
+    "pages/TargetAlbums",
+    "pages/About",
+    "pages/Slideshow"
+  ]
+}

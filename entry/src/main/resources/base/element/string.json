@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "gallery_location_reason",
+      "value": "用于在您主动授权后读取照片自带的拍摄地点，不获取设备实时位置"
+    },
+    {
+      "name": "gallery_write_reason",
+      "value": "用于按您的指令整理照片至目标相册，并将校验后的来源移入系统回收站"
+    },
+    {
+      "name": "gallery_read_reason",
+      "value": "用于批量读取本地图库照片，展示相册并逐张浏览，方便您分类整理。"
+    },
+    {
+      "name": "module_desc",
+      "value": "本地照片分类整理"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "拾光整理主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "拾光整理"
+    }
+  ]
+}
